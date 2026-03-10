@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Eduardo García Escudero
 
-<!--
-**escuderoed/escuderoed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python & R developer** and **economist** focused on **data analysis**, **econometrics**, **automation**, and **reproducible reporting**.
 
-Here are some ideas to get you started:
+> My work has centered on **financial inclusion**, **financial services transparency**, and the **analysis of financial products for individuals and SMEs in Mexico**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am especially interested in **applied research**, **practical data workflows**, and building **useful analytical tools**.
+
+I hold a **Master's degree in Economics** and a background in **Mathematical Engineering**. I have also completed the **HarvardX Professional Certificate in Python for Data Science and Machine Learning** and the **Google Data Analytics Professional Certificate**.
+
+Some of my professional work is not public due to **institutional and data confidentiality**. This profile highlights my **technical interests** and **selected public work** as I continue building it.
+
+---
+
+## Main areas
+
+- **Data analysis**
+- **Econometrics**
+- **Automation**
+- **Reproducible reporting**
+- **Data science**
+- **AI-assisted coding and documentation**
+
+---
+
+## Tools
+
+**Python** · **R** · **Stata** · **SQL** · **Quarto** · **Visual Studio Code** · **LaTeX**
+
+---
+
+## Interests
+
+**Financial inclusion** · **SME analysis** · **Applied econometrics** · **Reproducible research** · **Sports**
